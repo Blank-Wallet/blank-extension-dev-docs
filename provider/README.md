@@ -1,3 +1,4 @@
+
 # BlockWallet Ethereum Provider API
 
 The BlockWallet extension injects an ethereum provider on every site that the user visits. This document aims to help developers to connect to BlockWallet.
